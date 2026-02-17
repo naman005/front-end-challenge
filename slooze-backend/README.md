@@ -53,6 +53,7 @@ Create a `.env` file inside `slooze-backend`:
 ```env
 DATABASE_URL="your_postgres_connection_string"
 JWT_SECRET="your_secret_key"
+PORT=4000
 ```
 
 ---
@@ -75,7 +76,7 @@ npm run start:dev
 GraphQL Playground will be available at:
 
 ```
-http://localhost:3000/graphql
+http://localhost:4000/graphql
 ```
 
 ---

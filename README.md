@@ -1,3 +1,6 @@
+> ✅ This take-home assignment has been fully completed and is live at the link mentioned in this repository’s description. Detailed documentation for both the frontend and backend can be found in their respective folders. Below is the original assignment description as provided.
+
+---
 ![Logo](./public/FFFFFF-1.png)
 # Slooze take home challenge-front-end!!
 
